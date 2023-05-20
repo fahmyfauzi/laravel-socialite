@@ -16,7 +16,7 @@ class SocialiteController extends Controller
         return Socialite::driver($provider)->redirect();
     }
 
-    public function handleProvideCallback($provider)
+    public function handleProviderCallback($provider)
     {
         try {
             $user = Socialite::driver($provider)->user();
@@ -31,7 +31,7 @@ class SocialiteController extends Controller
         Auth()->login($authUser, true);
 
         // after login redirect to dashboard
-        return redirect()->rout('dashboard');
+        return redirect()->route('dashboard');
     }
 
     public function findOrCreateUser($socialUser, $provider)

@@ -10,6 +10,7 @@ class SocialAccount extends Model
 {
     use HasFactory;
 
+    protected $guarded  = [];
     // belongs to table user
     public function user()
     {
