@@ -1,5 +1,5 @@
 # Laravel Socialite
-example social lite with google and github, Reference [Santri Koding](https://santrikoding.com/login-dengan-google-github-di-laravel-menggunakan-socialite-1-installasi-persiapan)
+example social lite or login with google and github, Reference [Santri Koding](https://santrikoding.com/login-dengan-google-github-di-laravel-menggunakan-socialite-1-installasi-persiapan)
 
 ## features
 - register with google
@@ -70,7 +70,9 @@ example social lite with google and github, Reference [Santri Koding](https://sa
 
 ## screanshot
 1. Register
-![socialite2](https://github.com/fahmyfauzi/laravel-socialite/assets/58255031/01db30ff-e513-4a81-852b-7454ebfa1951)
+![241457285-01db30ff-e513-4a81-852b-7454ebfa1951](https://github.com/fahmyfauzi/laravel-socialite/assets/58255031/849a048b-7feb-4d8a-b6fc-6977f9254a0a)
+
 
 2. Login
-![socialite1](https://github.com/fahmyfauzi/laravel-socialite/assets/58255031/81340efc-47c1-4f5c-82b7-6da9d47a1808)
+![241457294-81340efc-47c1-4f5c-82b7-6da9d47a1808](https://github.com/fahmyfauzi/laravel-socialite/assets/58255031/145c2ac6-f718-410a-ae4b-bf61cdf771e2)
+
